@@ -1,0 +1,9 @@
+{
+  "best_embedding": "XLM-R",
+  "best_architecture": "GRU",
+  "test_accuracy": 0.8537414965986394,
+  "test_macro_f1": 0.8495626822157434,
+  "test_weighted_f1": 0.8514388845917376,
+  "best_epoch": 13,
+  "embed_dim": 768
+}
